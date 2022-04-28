@@ -1,0 +1,6 @@
+vk_api
+json
+random
+datetime
+requests
+psycopg2
